@@ -10,16 +10,16 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 import static springfox.documentation.builders.PathSelectors.regex;
 
-@Configuration
+/*@Configuration
 @EnableSwagger2
-@EnableAutoConfiguration
+@EnableAutoConfiguration*/
 public class SwaggerConfig {
 
-    @Bean
+    /*@Bean
     public Docket productApi() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select().apis(RequestHandlerSelectors.basePackage("dpd.accenture.identity.web.controllers"))
                 .paths(regex("/user.*"))
                 .build();
-    }
+    }*/
 }
