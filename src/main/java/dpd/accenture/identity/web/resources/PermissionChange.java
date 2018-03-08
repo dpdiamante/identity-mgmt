@@ -1,9 +1,9 @@
 package dpd.accenture.identity.web.resources;
 
-public class Credentials {
+public class PermissionChange {
 
     private String username;
-    private String password;
+    private boolean admin;
 
     public String getUsername() {
         return username;
@@ -13,11 +13,11 @@ public class Credentials {
         this.username = username;
     }
 
-    public String getPassword() {
-        return password;
+    public boolean isAdmin() {
+        return admin;
     }
 
-    public void setPassword(String password) {
-        this.password = password;
+    public void setAdmin(boolean admin) {
+        this.admin = admin;
     }
 }
