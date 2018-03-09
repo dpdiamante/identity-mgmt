@@ -1,7 +1,7 @@
-### Identity Management Demo
+# Identity Management Demo
 
 ## System Usage
 
-# Hours Logged
+#### Hours Logged
 
-# Other Notes
+#### Other Notes
