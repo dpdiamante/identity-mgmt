@@ -17,5 +17,7 @@
 - The scheduled task implemented just displays all the existing users in the console every five seconds.
 
 #### Hours Logged
+- 12 Hours of worked
 
 #### Other Notes
+I was not able to test if my docker file works for my implementation since the machine I'm working on is quite antique and is unable to run any docker image. Also, I was not able to focus much on the task at hand since I was busy packing up and organizing things to ship. I hope my circumstances are considered during code review.
